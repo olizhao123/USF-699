@@ -1,4 +1,5 @@
-# USF-699
+# Machine Learning - Mushroom Classfication
+
 Final Project for MSDS 699
 
 Mushrooms classification
